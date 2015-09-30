@@ -1,2 +1,2 @@
 # hello-world
-me learning github
+This is a little test git so I can learn github.
